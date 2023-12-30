@@ -4,8 +4,7 @@ function Home() {
     return (
         <div>
             <h1>Welcome to our page!</h1>
-           <h2>Hello World</h2>
-           <Contador/>
+            <Contador/>
         </div>
     )
 }
